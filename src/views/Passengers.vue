@@ -7,7 +7,7 @@
     :data="data"
     striped
     bordered
-    data-page-length='25'
+    data-page-length='20'
   />
 </template>
 <script>
